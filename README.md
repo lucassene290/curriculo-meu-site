@@ -12,10 +12,6 @@
       padding: 20px;
       background-color: #f2f2f2;
     }
-    .photo {
-      max-width: 200px;
-      border-radius: 50%;
-    }
     .section {
       margin: 20px;
     }
@@ -25,7 +21,7 @@
   <div class="header">
     <h1>Lucas Martins Sene</h1>
     <p>"Técnico em manutenção"</p>
-    <img class="photo" src="fotolucas.jpg" width="354" height="472" alt="Sua Foto">
+    <img src="fotolucas.jpg" width="354" height="472" alt="Sua Foto">
   </div>
   <div class="section">
     <h2>Informações de Contato</h2>
@@ -52,4 +48,3 @@
   </div>
 </body>
 </html>
-
