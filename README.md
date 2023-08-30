@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
@@ -26,7 +25,7 @@
   <div class="header">
     <h1>Lucas Martins Sene</h1>
     <p>"Técnico em manutenção"</p>
-    <img class="photo" src="fotolucas.jpg" alt="Sua Foto">
+    <img class="photo" src="fotolucas.jpg" width="320" height="160" alt="Sua Foto">
   </div>
   <div class="section">
     <h2>Informações de Contato</h2>
@@ -50,7 +49,6 @@
 
 
     </P>
-</div>
   </div>
 </body>
 </html>
